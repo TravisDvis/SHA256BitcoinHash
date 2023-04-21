@@ -1,0 +1,20 @@
+Analysis & Synthesis Status : Successful - Sun May 29 21:40:01 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : simplified_sha256
+Top-level Entity Name : simplified_sha256
+Family : Arria II GX
+Logic utilization : N/A
+    Combinational ALUTs : 3,861
+    Memory ALUTs : 0
+    Dedicated logic registers : 3,280
+Total registers : 3280
+Total pins : 118
+Total virtual pins : 0
+Total block memory bits : 0
+DSP block 18-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0
+Total DLLs : 0
